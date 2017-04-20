@@ -1,0 +1,16 @@
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe.config
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.ResolveComReference.cache
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.exe
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\bin\Debug\LiveSwitch.TextControl.pdb
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\TextControl.csprojResolveAssemblyReference.cache
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.ConfigureSMTPForm.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Editor.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.EditorForm.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.LinkDialog.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.Properties.Resources.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.SearchDialog.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.SplashForm.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.TextInsertForm.resources
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\TextControl.csproj.GenerateResource.Cache
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.exe
+C:\Users\Sarmkadan\Desktop\TextControl\TextControl\obj\Debug\LiveSwitch.TextControl.pdb
